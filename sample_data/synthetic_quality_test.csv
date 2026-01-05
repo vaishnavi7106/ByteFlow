@@ -1,0 +1,201 @@
+Transaction_ID,Amount,Transaction_Date,Category,Customer_Email,Status,Region
+TRX-1000,560.8577591551517,2023-01-01,Groceries,user0@example.com,Pending,East
+TRX-1001,464.51499597709216,2023-01-02,Home,user1@example.com,Pending,East
+TRX-1002,553.5234519030697,2023-01-03,Groceries,user2@example.com,Completed,South
+TRX-1003,490.6198744895129,2023-01-04,Clothing,,Failed,East
+TRX-1004,539.8279265403219,2023-01-05, Electronic,user4@example.com,Completed,East
+TRX-1005,460.1432860575352,2023-01-06, Clothing ,user5@example.com,Completed,None
+TRX-1006,553.5243297691546,2023-01-07,Clothing,user6@example.com,Pending,West
+TRX-1007,513.4764932956446,Invalid-Date,Home,user7@example.com,Pending,South
+TRX-1008,521.3406119436187,2023-01-09,Clothing,user8@example.com,Pending,South
+TRX-1009,438.1462078459482,2023-01-10, Clothing ,user9@example.com,Completed,North
+TRX-1010,454.76322444579625,2023-01-11, Home ,,Completed,South
+TRX-1011,571.7929610066911,2023-01-12,Electronics,user11@example.com,Failed,None
+TRX-1012,515.1921216479511,2023-01-13,Home,user12@example.com,Completed,East
+TRX-1013,581.1007622079421,,Electronics,user13@example.com,Completed,East
+TRX-1014,475.14811378252,2023-01-15,Clothing,user14@example.com,Pending,North
+TRX-1015,505.52325789050303,2023-01-16, Clothing ,user15@example.com,Pending,West
+TRX-1016,425.0429676357514,2023-01-17,Groceries,user16@example.com,Completed,South
+TRX-1017,514.7931248902629,2023-01-18,Clothing,user17@example.com,Completed,East
+TRX-1018,473.8300605381649,Invalid-Date,Groceries,user18@example.com,Pending,None
+TRX-1019,543.8187172662379,2023-01-20,Home,user19@example.com,Failed,South
+TRX-1020,517.6828638118333,2023-01-21,Clothing,user20@example.com,Failed,North
+TRX-1021,532.5094941180063,2023-01-22,Groceries,user21@example.com,Completed,East
+TRX-1022,484.3459955732588,2023-01-23, Groceries ,user22@example.com,Pending,East
+TRX-1023,514.7582842070202,2023-01-24, Clothing ,user23@example.com,Failed,North
+TRX-1024,553.7276961164883,2023-01-25,Electronics,user24@example.com,Failed,None
+TRX-1025,513.0692324137087,2023-01-26,Groceries,user25@example.com,Failed,North
+TRX-1026,413.92673885978667,2023-01-27, Electronic,,Completed,South
+TRX-1027,519.6126944148067,2023-01-28,Electronics,user27@example.com,Failed,North
+TRX-1028,466.3442210396101,2023-01-29,Groceries,user28@example.com,Failed,East
+TRX-1029,399.2883470998511,Invalid-Date,Home,user29@example.com,Failed,None
+TRX-1030,513.0997115417845,2023-01-31,Groceries,user30@example.com,Pending,North
+TRX-1031,519.607741236204,2023-02-01,Electronics,user31@example.com,Failed,East
+TRX-1032,537.8665489236217,2023-02-02, Groceries ,user32@example.com,Failed,West
+TRX-1033,481.48233838429087,2023-02-03,Electronics,user33@example.com,Completed,None
+TRX-1034,502.6144365789326,2023-02-04,Electronics,user34@example.com,Pending,East
+TRX-1035,583.0647362061477,2023-02-05,Clothing,user35@example.com,Pending,North
+TRX-1036,516.2296431925266,2023-02-06,Home,user36@example.com,Pending,None
+TRX-1037,506.35793065420484,2023-02-07,Electronics,user37@example.com,Failed,East
+TRX-1038,546.5371822451901,2023-02-08,Groceries,user38@example.com,Failed,None
+TRX-1039,459.94254488306035,2023-02-09,Home,user39@example.com,Failed,East
+TRX-1040,473.1415181376592,2023-02-10,Clothing,user40@example.com,Pending,South
+TRX-1041,450.76958075258915,2023-02-11,Electronics,,Completed,North
+TRX-1042,501.52313624933555,2023-02-12,Electronics,user42@example.com,Pending,East
+TRX-1043,478.6041372009424,2023-02-13, Groceries ,user43@example.com,Pending,North
+TRX-1044,507.3274824863127,2023-02-14, Groceries ,user44@example.com,Completed,West
+TRX-1045,52570.357243874045,2023-02-15, Clothing ,user45@example.com,Pending,West
+TRX-1046,599.006251721279,2023-02-16,Electronics,user46@example.com,Completed,South
+TRX-1047,462.7929840396603,2023-02-17,Home,user47@example.com,Pending,South
+TRX-1048,481.0536801017407,2023-02-18,Groceries,user48@example.com,Pending,West
+TRX-1049,473.43431761438114,2023-02-19,Clothing,user49@example.com,Completed,West
+TRX-1050,502.2098658811939,2023-02-20, Electronic,user50@example.com,Pending,South
+TRX-1051,502.74769239623856,2023-02-21,Electronics,user51@example.com,Failed,East
+TRX-1052,487.5039769642624,2023-02-22,Electronics,user52@example.com,Completed,West
+TRX-1053,407.829887570106,2023-02-23,Groceries,user53@example.com,Pending,North
+TRX-1054,545.7549129743522,2023-02-24,Home,user54@example.com,Completed,None
+TRX-1055,532.6677961682519,2023-02-25, Clothing ,user55@example.com,Pending,North
+TRX-1056,555.1509501006514,2023-02-26,Clothing,user56@example.com,Pending,West
+TRX-1057,425.0345369888642,,Electronics,user57@example.com,Failed,East
+TRX-1058,532.9356097762682,2023-02-28,Home,,Failed,East
+TRX-1059,514.8350734019454,2023-03-01,Groceries,user59@example.com,Pending,East
+TRX-1060,440.92193980300647,2023-03-02,Clothing,,Failed,South
+TRX-1061,48083.7527648841,2023-03-03,Clothing,user61@example.com,Failed,North
+TRX-1062,532.6848532204317,,Home,user62@example.com,Completed,West
+TRX-1063,504.7839608667205,2023-03-05,Home,user63@example.com,Failed,West
+TRX-1064,489.57406224822245,2023-03-06, Clothing ,user64@example.com,Completed,East
+TRX-1065,719.206268088745,2023-03-07,Clothing,user65@example.com,Pending,North
+TRX-1066,423.65776855805353,2023-03-08,Home,user66@example.com,Failed,South
+TRX-1067,479.34772413157236,2023-03-09,Clothing,user67@example.com,Completed,East
+TRX-1068,549.5535752448318,2023-03-10,Electronics,user68@example.com,Pending,West
+TRX-1069,412.9846011587522,Invalid-Date,Clothing,user69@example.com,Pending,North
+TRX-1070,548.2965190910895,2023-03-12,Groceries,user70@example.com,Failed,North
+TRX-1071,546.460609590683,2023-03-13,Home,user71@example.com,Completed,South
+TRX-1072,533.4146092142745,2023-03-14,Home,user72@example.com,Completed,West
+TRX-1073,48112.92012985577,2023-03-15,Home,user73@example.com,Failed,South
+TRX-1074,569.5607637739017,2023-03-16,Electronics,user74@example.com,Completed,West
+TRX-1075,595.3396395621922,2023-03-17, Groceries ,user75@example.com,Pending,None
+TRX-1076,511.4760608001197,2023-03-18,Clothing,user76@example.com,Pending,North
+TRX-1077,525.3438597745592,Invalid-Date,Clothing,user77@example.com,Pending,East
+TRX-1078,446.4630256509074,2023-03-20,Clothing,user78@example.com,Pending,West
+TRX-1079,504.8251062956966,2023-03-21,Clothing,user79@example.com,Completed,East
+TRX-1080,487.99330551453215,Invalid-Date, Electronic,,Pending,North
+TRX-1081,484.1830055694511,2023-03-23,Groceries,user81@example.com,Completed,None
+TRX-1082,454.4792390891078,2023-03-24,Electronics,user82@example.com,Completed,South
+TRX-1083,557.0359952079731,2023-03-25,Clothing,user83@example.com,Completed,West
+TRX-1084,380.26669419721327,2023-03-26,Home,user84@example.com,Completed,North
+TRX-1085,594.3452215332302,2023-03-27,Electronics,user85@example.com,Failed,West
+TRX-1086,544.2153154574739,2023-03-28, Clothing ,,Completed,North
+TRX-1087,539.6180695566461,2023-03-29,Clothing,user87@example.com,Pending,West
+TRX-1088,488.02995690829107,2023-03-30, Electronic,user88@example.com,Failed,North
+TRX-1089,410.2517100372041,2023-03-31, Clothing ,user89@example.com,Failed,North
+TRX-1090,481.81059352704636,,Clothing,user90@example.com,Completed,West
+TRX-1091,534.3106953684168,2023-04-02,Electronics,user91@example.com,Completed,West
+TRX-1092,49013.439795597544,2023-04-03,Electronics,user92@example.com,Completed,East
+TRX-1093,509.12822510496983,2023-04-04,Electronics,user93@example.com,Failed,West
+TRX-1094,500.49254113235287,2023-04-05,Home,user94@example.com,Failed,South
+TRX-1095,41788.45163949287,2023-04-06, Groceries ,user95@example.com,Failed,East
+TRX-1096,435.88111089966526,2023-04-07, Home ,user96@example.com,Failed,East
+TRX-1097,446.2369033535311,2023-04-08,Home,user97@example.com,Failed,West
+TRX-1098,422.72807562024354,2023-04-09,Electronics,user98@example.com,Failed,North
+TRX-1099,522.9369711426921,2023-04-10,Electronics,user99@example.com,Completed,South
+TRX-1100,581.2236580294035,2023-04-11,Electronics,user100@example.com,Failed,South
+TRX-1101,486.16716228215955,2023-04-12,Home,user101@example.com,Failed,North
+TRX-1102,505.08512054932817,2023-04-13,Clothing,user102@example.com,Failed,None
+TRX-1103,404.6773613886386,2023-04-14, Home ,,Failed,None
+TRX-1104,556.6618849837015,2023-04-15,Electronics,user104@example.com,Pending,West
+TRX-1105,493.8096658574016,2023-04-16,Home,user105@example.com,Pending,South
+TRX-1106,498.2646838877432,2023-04-17,Groceries,user106@example.com,Failed,South
+TRX-1107,485.0456333028308,2023-04-18,Home,user107@example.com,Pending,West
+TRX-1108,503.76984886081544,Invalid-Date,Clothing,user108@example.com,Failed,East
+TRX-1109,535.3029863558179,2023-04-20, Clothing ,user109@example.com,Completed,South
+TRX-1110,488.97458309767626,2023-04-21,Electronics,user110@example.com,Pending,South
+TRX-1111,556.5660841356639,2023-04-22,Clothing,user111@example.com,Failed,None
+TRX-1112,466.2392623929163,2023-04-23,Groceries,user112@example.com,Pending,North
+TRX-1113,497.8962941994093,2023-04-24, Electronic,user113@example.com,Completed,North
+TRX-1114,523.2968257693158,2023-04-25, Groceries ,user114@example.com,Failed,East
+TRX-1115,558.726258960176,2023-04-26,Clothing,user115@example.com,Failed,North
+TRX-1116,558.337320240544,2023-04-27,Groceries,,Pending,North
+TRX-1117,472.5092208106185,2023-04-28,Clothing,user117@example.com,Pending,South
+TRX-1118,581.8288583135528,,Groceries,user118@example.com,Failed,North
+TRX-1119,460.63535538066947,2023-04-30,Home,user119@example.com,Pending,South
+TRX-1120,479.79399865862734,2023-05-01,Electronics,user120@example.com,Failed,South
+TRX-1121,578.1848514380353,2023-05-02,Clothing,user121@example.com,Completed,West
+TRX-1122,475.07393927029,2023-05-03,Clothing,user122@example.com,Pending,West
+TRX-1123,569.8387641391614,2023-05-04, Groceries ,user123@example.com,Completed,East
+TRX-1124,526.1956748732895,2023-05-05,Electronics,user124@example.com,Completed,West
+TRX-1125,506.7469749358155,2023-05-06,Home,user125@example.com,Pending,East
+TRX-1126,595.0624749537981,2023-05-07,Groceries,user126@example.com,Failed,West
+TRX-1127,532.0497469035901,2023-05-08,Home,user127@example.com,Pending,South
+TRX-1128,505.20106151623355,2023-05-09, Groceries ,user128@example.com,Failed,East
+TRX-1129,495.80101462674634,2023-05-10,Clothing,user129@example.com,Failed,West
+TRX-1130,490.1152926333252,2023-05-11, Electronic,user130@example.com,Completed,North
+TRX-1131,507.49011708797036,2023-05-12,Home,user131@example.com,Completed,South
+TRX-1132,499.83153372133336,2023-05-13,Home,user132@example.com,Failed,North
+TRX-1133,471.44960628689944,2023-05-14,Groceries,user133@example.com,Failed,West
+TRX-1134,451.53797160910295,,Groceries,user134@example.com,Completed,West
+TRX-1135,566.2934930259556,2023-05-16,Clothing,user135@example.com,Failed,North
+TRX-1136,452.5069714125423,2023-05-17,Home,user136@example.com,Failed,South
+TRX-1137,485.43299722909455,2023-05-18,Clothing,user137@example.com,Pending,East
+TRX-1138,409.8820573462932,Invalid-Date, Groceries ,,Completed,East
+TRX-1139,488.43319029076974,2023-05-20,Home,user139@example.com,Completed,South
+TRX-1140,582.2003195494988,2023-05-21,Electronics,user140@example.com,Pending,South
+TRX-1141,499.90011101196507,2023-05-22, Home ,user141@example.com,Pending,South
+TRX-1142,507.2559150258399,2023-05-23,Home,user142@example.com,Failed,North
+TRX-1143,483.982721692851,Invalid-Date,Electronics,user143@example.com,Completed,East
+TRX-1144,570.0442867850019,2023-05-25,Home,user144@example.com,Pending,North
+TRX-1145,538.4648684251357,2023-05-26,Groceries,user145@example.com,Completed,South
+TRX-1146,553.1659044643649,2023-05-27,Clothing,user146@example.com,Completed,North
+TRX-1147,458.25128686428684,2023-05-28,Clothing,user147@example.com,Failed,North
+TRX-1148,478.8830818067197,2023-05-29,Home,user148@example.com,Pending,North
+TRX-1149,518.3300946177501,2023-05-30, Home ,user149@example.com,Pending,None
+TRX-1150,496.4872727054752,2023-05-31,Clothing,user150@example.com,Completed,West
+TRX-1151,504.75966590090576,2023-06-01,Groceries,user151@example.com,Failed,South
+TRX-1152,501.89378716026,2023-06-02, Electronic,user152@example.com,Completed,East
+TRX-1153,487.10340417047377,,Electronics,user153@example.com,Completed,North
+TRX-1154,539.1746661935134,2023-06-04, Groceries ,user154@example.com,Failed,South
+TRX-1155,594.6866675801267,2023-06-05,Clothing,user155@example.com,Completed,East
+TRX-1156,509.06850473251194,2023-06-06, Home ,,Failed,North
+TRX-1157,429.24060003357744,2023-06-07, Clothing ,user157@example.com,Completed,South
+TRX-1158,456.24610751032316,2023-06-08,Electronics,user158@example.com,Pending,East
+TRX-1159,508.07785590750353,2023-06-09,Electronics,user159@example.com,Pending,None
+TRX-1160,533.9635639943216,2023-06-10,Home,user160@example.com,Failed,South
+TRX-1161,580.4769167830785,2023-06-11,Electronics,,Failed,South
+TRX-1162,483.09358629406046,2023-06-12, Groceries ,user162@example.com,Pending,South
+TRX-1163,480.17782094356124,2023-06-13,Groceries,user163@example.com,Failed,East
+TRX-1164,587.4912784737601,2023-06-14,Home,user164@example.com,Failed,North
+TRX-1165,461.7050511322991,2023-06-15,Electronics,,Completed,South
+TRX-1166,447.94350191872553,2023-06-16,Groceries,user166@example.com,Completed,East
+TRX-1167,478.5708770747709,Invalid-Date,Groceries,user167@example.com,Pending,North
+TRX-1168,460.0135074893841,2023-06-18,Home,user168@example.com,Pending,South
+TRX-1169,535.7165197578521,2023-06-19,Groceries,user169@example.com,Pending,None
+TRX-1170,461.71737298606934,2023-06-20, Home ,user170@example.com,Completed,North
+TRX-1171,581.1815880482466,2023-06-21,Clothing,user171@example.com,Completed,East
+TRX-1172,485.86209004315083,2023-06-22,Clothing,user172@example.com,Completed,East
+TRX-1173,489.08962725287023,2023-06-23,Home,user173@example.com,Pending,North
+TRX-1174,524.5457437135883,2023-06-24,Electronics,user174@example.com,Failed,South
+TRX-1175,565.0454916083144,,Clothing,user175@example.com,Failed,West
+TRX-1176,474.2375660014731,2023-06-26,Electronics,user176@example.com,Completed,West
+TRX-1177,474.5185294098745,2023-06-27,Clothing,user177@example.com,Pending,South
+TRX-1178,567.5988836325558,2023-06-28,Clothing,,Failed,North
+TRX-1179,473.4280981469164,2023-06-29,Home,user179@example.com,Pending,South
+TRX-1180,567.5391004368239,Invalid-Date,Clothing,user180@example.com,Completed,East
+TRX-1181,541.6246014315354,2023-07-01,Clothing,user181@example.com,Failed,East
+TRX-1182,553.9597511609862,2023-07-02,Home,user182@example.com,Completed,North
+TRX-1183,517.0352179119967,2023-07-03,Home,user183@example.com,Completed,None
+TRX-1184,484.9707406992652,2023-07-04,Home,user184@example.com,Failed,East
+TRX-1185,615.5182529989994,2023-07-05,Home,,Completed,East
+TRX-1186,523.0456651612428,2023-07-06, Clothing ,user186@example.com,Pending,None
+TRX-1187,527.7492548906021,2023-07-07,Clothing,user187@example.com,Pending,None
+TRX-1188,448.54022305126097,2023-07-08,Clothing,,Pending,South
+TRX-1189,494.73280448699376,2023-07-09, Clothing ,,Failed,South
+TRX-1000,560.8577591551517,Invalid-Date,Clothing,user0@example.com,Failed,North
+TRX-1001,464.51499597709216,2023-07-11,Home,user1@example.com,Pending,North
+TRX-1002,553.5234519030697,2023-07-12, Clothing ,user2@example.com,Pending,East
+TRX-1003,490.6198744895129,2023-07-13,Home,,Pending,West
+TRX-1004,539.8279265403219,2023-07-14,Electronics,user4@example.com,Pending,East
+TRX-1005,460.1432860575352,,Electronics,user5@example.com,Completed,East
+TRX-1006,553.5243297691546,2023-07-16,Groceries,user6@example.com,Pending,West
+TRX-1007,513.4764932956446,2023-07-17,Home,user7@example.com,Completed,North
+TRX-1008,521.3406119436187,2023-07-18,Electronics,user8@example.com,Completed,East
+TRX-1009,438.1462078459482,2023-07-19,Home,user9@example.com,Pending,North
