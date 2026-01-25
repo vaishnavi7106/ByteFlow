@@ -15,7 +15,7 @@
 
 Unlike traditional tools that store sensitive data, DataQualityAI operates on a **Zero-Persistence Architecture**. It ingests data streams into volatile memory (RAM), calculates statistical metadata, and utilizes **Google Gemini Pro** to generate risk insights without ever committing Personal Identifiable Information (PII) to a persistent database.
 
-### 🎯 Key Features
+### Key Features
 * **Zero-Persistence Mode:** Stateless processing using Python `BytesIO` streams ensures maximum privacy and GDPR compliance.
 * **GenAI Analyst:** Automated risk assessment and remediation suggestions powered by Google Gemini.
 * **DQS Scoring Engine:** Proprietary algorithm that calculates a Data Quality Score based on Validity, Completeness, Consistency, Timeliness, and Accuracy.
@@ -24,7 +24,7 @@ Unlike traditional tools that store sensitive data, DataQualityAI operates on a 
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The system follows a decoupled Client-Server architecture designed for security:
 
@@ -35,7 +35,7 @@ The system follows a decoupled Client-Server architecture designed for security:
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 * Node.js & npm
@@ -112,49 +112,3 @@ npm start
 5.  **Chat:** Use the floating AI Chatbot button to ask questions like *"Why is the validity score so low?"*.
 
 ---
-
-## 📂 Project Structure
-
-```text
-ByteFlow/
-├── backend/
-│   ├── app.py                # Main Flask API (Stateless)
-│   ├── .env                  # API Keys (GitIgnored)
-│   └── requirements.txt      # Python dependencies
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/       # Reusable UI components
-│   │   │   ├── FileUpload.js
-│   │   │   ├── InsightCard.js
-│   │   │   ├── QualityGauge.js
-│   │   │   ├── DimensionBars.js
-│   │   │   ├── RecommendationList.js
-│   │   │   ├── ChatbotPopup.js
-│   │   │   └── ProfileSelector.js
-│   │   ├── styles/           # CSS Modules (Dashboard.css)
-│   │   ├── App.js            # Main React Logic
-│   │   └── index.js
-│   └── package.json
-└── README.md
-```
-
----
-
-## 🤝 Contributing
-Contributions are welcome!
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
----
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-**Developed by ByteFlow**
