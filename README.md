@@ -101,7 +101,7 @@ npm start
 
 ---
 
-## 💡 Usage Guide
+## Usage Guide
 
 1.  **Select Profile:** Choose a use case (e.g., KYC, Fraud, Analytics) on the dashboard top bar.
 2.  **Ingest Data:** Drag and drop a CSV or Excel file into the "Secure Ingestion Gateway" box.
